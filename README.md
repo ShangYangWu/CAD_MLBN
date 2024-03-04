@@ -1,7 +1,7 @@
 # CAD_project3
 
 # Initailize
-make clean
+make clean //
 make
 
 # Generate
