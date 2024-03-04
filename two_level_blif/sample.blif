@@ -1,0 +1,17 @@
+.model sample
+.inputs a b c d e f g h \
+i j k l m n
+.outputs o \
+p
+.names a b c d \
+e g h i j k o
+01111---1- 1
+01011--11- 1
+010111--0- 1
+11111---11 1
+11011-111- 1
+.names c d e f g h l m n p
+1111---1- 1
+-001--0-0 1
+101111--0 1
+.end
